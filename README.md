@@ -1,6 +1,6 @@
 # YouTube Audio Summarizer & Notes Generator
 
-A Python tool to **fetch YouTube audio**, **convert it to text**, **summarize it**, and optionally **generate detailed notes** on user-specified topics. This project combines **yt-dlp, Whisper, LLMs, and Gemini** for a seamless learning workflow.
+A Python tool to **fetch YouTube audio**, **convert it to text**, **summarize it**, and optionally **generate detailed notes** on user-specified topics. This project combines **yt-dlp, Whisper, LLMs,** for a seamless learning workflow.
 
 ---
 
